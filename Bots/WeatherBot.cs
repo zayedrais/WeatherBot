@@ -66,7 +66,7 @@ namespace Microsoft.BotBuilderSamples.Bots
         }
         protected override async Task OnMessageActivityAsync(ITurnContext<IMessageActivity> turnContext, CancellationToken cancellationToken)
         {
-            var client = new OpenWeatherMapClient("47d4faed8ac5819ab1e805525716ee78");
+            var client = new OpenWeatherMapClient("47d4faed8ac5819xxxxxxxxxx");
             var CloudImage = "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png";
             var DizzleImage = "http://messagecardplayground.azurewebsites.net/assets/Drizzle-Square.png";
             var rainImage  = "https://raw.githubusercontent.com/zayedrais/WeatherBot/master/rain.png";
