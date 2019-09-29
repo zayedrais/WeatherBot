@@ -1,0 +1,68 @@
+{
+    "$schema": "http://adaptivecards.io/schemas/adaptive-card.json",
+    "type": "AdaptiveCard",
+    "version": "1.0",
+    "speak": "<s>The forecast for Seattle January 20 is mostly clear with a High of 51 degrees and Low of 40 degrees</s>",
+    "body": [
+        {
+            "type": "TextBlock",
+            "text": "Seattle, WA",
+            "size": "Large",
+            "isSubtle": true
+        },
+        {
+            "type": "TextBlock",
+            "text": "September 18, 7:30 AM",
+            "spacing": "None"
+        },
+        {
+            "type": "ColumnSet",
+            "columns": [{
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [{
+                        "type": "Image",
+                        "url": "http://messagecardplayground.azurewebsites.net/assets/Mostly%20Cloudy-Square.png",
+                        "size": "Small"
+                    }]
+                },
+                {
+                    "type": "Column",
+                    "width": "auto",
+                    "items": [{
+                        "type": "TextBlock",
+                        "text": "42",
+                        "size": "ExtraLarge",
+                        "spacing": "None"
+                    }]
+                },
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [{
+                        "type": "TextBlock",
+                        "text": "°C",
+                        "weight": "Bolder",
+                        "spacing": "Small"
+                    }]
+                },
+                {
+                    "type": "Column",
+                    "width": "stretch",
+                    "items": [{
+                            "type": "TextBlock",
+                            "text": "Hi 51",
+                            "horizontalAlignment": "Left"
+                        },
+                        {
+                            "type": "TextBlock",
+                            "text": "Lo 40",
+                            "horizontalAlignment": "Left",
+                            "spacing": "None"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

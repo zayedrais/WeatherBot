@@ -1,0 +1,15 @@
+/home/zettadevs/WeatherBot/bin/Debug/netcoreapp2.1/appsettings.json
+/home/zettadevs/WeatherBot/bin/Debug/netcoreapp2.1/WeatherBot.deps.json
+/home/zettadevs/WeatherBot/bin/Debug/netcoreapp2.1/WeatherBot.runtimeconfig.json
+/home/zettadevs/WeatherBot/bin/Debug/netcoreapp2.1/WeatherBot.runtimeconfig.dev.json
+/home/zettadevs/WeatherBot/bin/Debug/netcoreapp2.1/WeatherBot.dll
+/home/zettadevs/WeatherBot/bin/Debug/netcoreapp2.1/WeatherBot.pdb
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.csprojAssemblyReference.cache
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.csproj.CoreCompileInputs.cache
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.RazorAssemblyInfo.cache
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.RazorAssemblyInfo.cs
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.AssemblyInfoInputs.cache
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.AssemblyInfo.cs
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.RazorTargetAssemblyInfo.cache
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.dll
+/home/zettadevs/WeatherBot/obj/Debug/netcoreapp2.1/WeatherBot.pdb
